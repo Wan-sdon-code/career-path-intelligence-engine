@@ -1,7 +1,10 @@
-# 🎮 The Bungie Bound Roadmap: Leveling Up from Manager to AAA
+# 🎮 The Bungie Bound Roadmap
 
-This is your step-by-step guide to stop being a "Generalist" at your current job and start becoming the "Specialist" Bungie wants to hire. 
 
+> **Mission Objective:** Leveling Up from Manager to AAA Technical Sound Design
+
+
+> **Base of Operations:** Singapore 🇸🇬 | Technical Audio Specialist
 ---
 
 ## 🛠️ LEVEL 1: The Skills Pivot (Months 1–6)
