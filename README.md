@@ -44,7 +44,7 @@ Next appraisal, tell them: *"I’m currently doing the work of an Asst. Manager 
 ## ⚡ SHARPENING: Gamify your Workday
 *Treat your current office as your training ground.*
 
-* **Record Everything:** You have access to a unique environment (Mandai). Spend your downtime recording high-quality animal and texture sounds. Bungie LOVES unique organic sounds. This is your **Secret Sound Library**.
+* **Record Everything:** You have access to a unique environment . Spend your downtime recording high-quality animal and texture sounds. Bungie LOVES unique organic sounds. This is your **Secret Sound Library**.
 * **Automate the Boring Stuff:** Use AI to finish your admin work in half the time. Use the extra hours at your desk to watch Wwise tutorials.
 * **Ask for Critique:** Find a Senior Sound Designer at Bungie or Riot on LinkedIn. Don't ask for a job—ask for a **5-minute technical critique** on your work. This is how you get your foot in the door.
 
