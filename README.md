@@ -1,4 +1,5 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Status](https://img.shields.io/badge/Status-Deploying_to_AAA-red?style=for-the-badge&logo=target)
+![Location](https://img.shields.io/badge/Base-Singapore_🇸🇬-white?style=for-the-badge)
 
 # 🎮 The Bungie Bound Roadmap
 
