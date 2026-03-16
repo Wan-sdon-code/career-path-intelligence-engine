@@ -1,49 +1,36 @@
-import sys
-import time
+from collections import namedtuple
 
-def slow_print(text, speed=0.01):
-    for char in text:
-        sys.stdout.write(char)
-        sys.stdout.flush()
-        time.sleep(speed)
-    print()
+# Define our Quest structure
+Quest = namedtuple('Quest', ['id', 'task', 'status', 'xp_reward'])
+
+def update_quest_log():
+    # Active Quest Data
+    quests = [
+        Quest(1, "Complete Wwise 101 & 135", "IN PROGRESS", 500),
+        Quest(2, "Post 30s Implementation Clip", "LOCKED", 250),
+        Quest(3, "Record 5 Unique Office Sounds", "OPEN", 100),
+        Quest(4, "C# Unity Audio Hooks Study", "OPEN", 400)
+    ]
+
+    print(f"\n{'ID':<3} | {'ACTIVE QUEST':<32} | {'STATUS':<12} | {'XP'}")
+    print("-" * 65)
+    
+    for q in quests:
+        status_icon = "⏳" if q.status == "IN PROGRESS" else "⭕"
+        print(f"{q.id:<3} | {q.task:<32} | {status_icon} {q.status:<10} | {q.xp_reward}")
 
 def main():
-    print("\n" + "="*50)
-    print("      🎮 BUNGIE BOUND: CAREER ROADMAP v1.0      ")
-    print("="*50)
-
-    print("\n--- LEVEL 1: THE SKILLS PIVOT ---")
-    slow_print("* Action: Replace Instagram with LinkedIn/ArtStation.")
-    slow_print("* Tech Stack: Master Wwise & FMOD (Audio Middleware).")
-    slow_print("* Challenge: Redesign a 60s Destiny clip (Implementation focus).")
-    slow_print("* Code: Learn C# for Unity/Unreal audio hooks.")
-
-    print("\n--- LEVEL 2: SALARY SCALING (SGD) ---")
-    print(f"{'Role':<32} | {'Salary Range':<15}")
-    print("-" * 50)
-    print(f"{'Assistant Manager (Now)':<32} | $4.0k - $5.5k")
-    print(f"{'Senior Audio Lead (Bridge)':<32} | $6.5k - $9.0k")
-    print(f"{'Tech Sound Designer (The Leap)':<32} | $7.5k - $11k+")
-    print(f"{'Audio Director (Bungie)':<32} | $120k USD+")
-
-    print("\n--- LEVEL 3: WORKPLACE DEFENSE ---")
-    slow_print("🛡️ Goal: Become an 'Internal Specialist'.")
-    slow_print("✅ DO: Negotiate for Wwise Certifications over minor raises.")
-    slow_print("✅ DO: Record unique organic sounds at the current office.")
-    slow_print("❌ DON'T: Volunteer for non-audio admin/logistics.")
-
-    print("\n--- ACTIVE QUEST LOG ---")
-    print("[ ] Complete Wwise 101 & 135 Certifications.")
-    print("[ ] Post a 30s 'Sound Implementation' clip to LinkedIn.")
-    print("[ ] Record 5 unique workplace sounds for the Secret Library.")
-
-    print("\n--- 🧠 PROJECT INTEGRITY ---")
-    print("Expertise: Human (10+ years SG industry experience)")
-    print("Execution: AI-Accelerated (Gemini 3 Flash)")
-    print("\nExpertise is human; execution is AI-accelerated.")
-    print("="*50)
-    print("\nRoadmap Loaded. Eyes up, Guardian.")
+    print("\n" + "!"*20 + " SYSTEM CHECK: OKAY " + "!"*20)
+    print("LOG: Modules 'collections' and 'math' initialized.")
+    
+    update_quest_log()
+    
+    # Using 'math' for a progress calculation example
+    total_xp = 1250
+    current_xp = 500
+    progress = (current_xp / total_xp) * 100
+    print(f"\n>> OVERALL PROGRESS: {progress:.1f}% TO LEVEL 2 (Senior Audio Lead)")
+    print("="*60)
 
 if __name__ == "__main__":
     main()
