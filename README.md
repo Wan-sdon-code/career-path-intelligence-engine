@@ -5,7 +5,11 @@
 > **Objective:** Transitioning from Manager to AAA Technical Sound Designer
 > **Deployment Base:** Singapore 🇸🇬
 
+---
+
 ![Bungie Bound Roadmap Banner](towardsbungie.png)
+
+---
 
 ## 🛠️ LEVEL 1: The Skills Pivot (Months 1–6)
 *Stop showing them you can write a song. Show them you can build an engine.*
