@@ -1,84 +1,49 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Status](https://img.shields.io/badge/Status-Leveling_Up-red?style=flat-square)
-
 # 🎮 The Bungie Bound Roadmap
-> **Objective:** Transitioning from Manager to AAA Technical Sound Designer
-> **Deployment Base:** Singapore 🇸🇬
-
----
-
-![Bungie Bound Roadmap Banner](towardsbungie.png)
+> **Objective:** Transition from Manager to AAA Technical Sound Designer  
+> **Base:** Singapore 🇸🇬
 
 ---
 
 ## 🛠️ LEVEL 1: The Skills Pivot (Months 1–6)
-*Stop showing them you can write a song. Show them you can build an engine.*
-
-* **Ditch Instagram:** Recruiters don't scout on IG. Move your focus to **LinkedIn** and **ArtStation**.
-* **The "Destiny" Challenge:** Use your 28 days of leave to strip the audio from a 60-second *Destiny* clip. Redesign all the sounds from scratch. 
-* **Master Middleware:** You MUST learn **Wwise** or **FMOD**. These are the tools that connect your sounds to the game.
-* **Coding Basics:** Learn just enough **C#** to understand how sounds trigger when a player walks or shoots.
+* **Platform Shift:** Move focus from Instagram to **LinkedIn** and **ArtStation**.
+* **The Destiny Challenge:** Redesign all audio for a 60-second *Destiny* clip from scratch.
+* **Master Middleware:** Learn **Wwise** or **FMOD** (the industry standards).
+* **Coding:** Learn basic **C#** to understand how sounds trigger in-engine.
 
 ---
 
-## 💰 LEVEL 2: The Money Strategy (Don't take a pay cut)
-*You have 10 years of experience—don't throw that away. Use your manager title to get a higher-paying "bridge" job first.*
+## 💰 LEVEL 2: The Money Strategy
+*Don't take a pay cut; leverage your 10 years of seniority.*
 
-1.  **Now:** Assistant Manager ($4k - $5.5k)
-2.  **The Bridge:** Aim for **Senior Audio Lead** at an Ad Agency or Tech Firm ($6.5k - $9k). They pay for your seniority while you build your game portfolio.
-3.  **The Leap:** **Technical Sound Designer** at Ubisoft or Riot ($7.5k - $11k+).
-4.  **The Goal:** **Audio Director** at Bungie ($120k USD+).
-
----
-
-## 🛡️ DEFENSE: How to Stay at your Current Job (Without being used)
-*If you stay, stop being the "guy who does everything." Start being the "Internal Specialist."*
-
-### 📋 The "Do & Don't" List
-* ✅ **DO:** Track the value of your songs. If your music helps a big project, use that as proof for a raise.
-* ✅ **DO:** Ask the company to pay for your **Wwise Certifications** and software (plugins). If they won't give a raise, make them pay for your education.
-* ❌ **DON'T:** Do "Shadow Management." If you're doing a Manager's work on an Assistant's pay, say "No" unless a promotion is on the table.
-* ❌ **DON'T:** Volunteer for non-audio tasks (logistics/admin). Protect your "Creative Energy."
-
-### 🎤 The Salary Talk
-Next appraisal, tell them: *"I’m currently doing the work of an Asst. Manager AND a Senior Audio Producer. Industry rate for this is $7k+. I'd like to discuss a 'Creative Premium' per song I compose for the company."*
+1.  **The Bridge:** Senior Audio Lead at an Ad/Tech Firm ($6.5k – $9k).
+2.  **The Leap:** Technical Sound Designer at Ubisoft/Riot ($7.5k – $11k+).
+3.  **The Goal:** Audio Director at Bungie ($120k USD+).
 
 ---
 
-## ⚡ SHARPENING: Gamify your Workday
-*Treat your current office as your training ground.*
+## 🛡️ DEFENSE: Current Job Boundaries
+*Stop being a generalist; become an "Internal Specialist."*
 
-* **Record Everything:** You have access to a unique environment . Spend your downtime recording high-quality sounds. Bungie LOVES unique organic sounds. This is your **Secret Sound Library**.
-* **Automate the Boring Stuff:** Use AI to finish your admin work in half the time. Use the extra hours at your desk to watch Wwise tutorials.
-* **Ask for Critique:** Find a Senior Sound Designer at Bungie or Riot on LinkedIn. Don't ask for a job—ask for a **5-minute technical critique** on your work. This is how you get your foot in the door.
-
----
-
-## ✅ Your First 3 Steps:
-1.  **The Wwise Adventure Game (FREE):** This isn't a boring lecture. It’s a 3D action game where you learn by doing. You’ll install the Wwise software and actually "program" the sounds into the game world.
-  * **Goal:** Complete Wwise 101 & 135 (Learning through the game).
-  * **Link:** [Audiokinetic Training Portal](https://www.audiokinetic.com/en/education/learn-wwise/)
-
-2.  **Stop posting songs to IG.** Post 30-second clips of "Sound Implementation" to LinkedIn.
-   
-3.  **Record 5 unique sounds** at your workplace today that no one else has access to.
+* ✅ **DO:** Track your music's ROI to justify raises.
+* ✅ **DO:** Get the company to pay for **Wwise Certifications** and plugins.
+* ❌ **DON'T:** Perform "Shadow Management" without the title or pay.
+* ❌ **DON'T:** Volunteer for logistics or admin; protect your creative energy.
+* **The Pitch:** *"I’m doing the work of an Asst. Manager and Senior Producer. Market rate is $7k+. Let’s discuss a 'Creative Premium' per song."*
 
 ---
 
-🧠 Project Integrity Human-AI Collaboration:
-
-
-This roadmap's strategic direction, salary data, and industry research are 100% human-driven, backed by 10+ years of experience in the Singapore ecosystem. Gemini AI was utilized as a "force multiplier" specifically for Python CLI structuring and syntax optimization
+## ⚡ SHARPENING: Gamify the Workday
+* **Secret Library:** Record unique organic sounds at your current workplace.
+* **Automate:** Use AI for admin tasks to free up time for Wwise tutorials.
+* **Network:** Ask AAA Sound Designers for a **5-minute technical critique**, not a job.
 
 ---
 
-### 🚀 How to Run the Analysis
-To see this logic run as a structured script, follow these steps:
+## ✅ First 3 Action Steps
+1.  **Start the Wwise Adventure Game:** Complete Wwise 101 & 135 [here](https://www.audiokinetic.com/en/education/learn-wwise/).
+2.  **LinkedIn:** Post a 30-second clip of a sound implementation (not just a song).
+3.  **Field Record:** Capture 5 unique sounds at your workplace today.
 
-1. **Prerequisites:** Ensure you have [Python 3](https://www.python.org/downloads/) installed.
-2. **Download:** Save the `career_roadmap.py` file to your computer.
-3. **Execute:** Open your Terminal or Command Prompt and run:
- 
-   ```bash
-   career_roadmap.py
+---
 
+> **Note:** Strategic direction and industry data are human-driven. Gemini AI utilized for Python CLI optimization.
