@@ -35,4 +35,19 @@
 ---
 
 ## ⚡ SHARPENING: Making Your Workday Useful
-* **Secret Library:** Use your time at work to record
+* **Secret Library:** Use your time at work to record real-life sounds that no one else can get.
+* **Use AI:** Use AI to finish your boring paperwork faster. Use the extra time to watch Wwise videos.
+* **Ask for Feedback:** Find a pro designer at a big studio on LinkedIn. Don't ask for a job—ask for **5 minutes of feedback** on your work.
+
+---
+
+## ✅ Your First 3 Steps
+1.  **Play the Wwise Game:** Learn by playing a 3D game for free [here](https://www.audiokinetic.com/en/education/learn-wwise/).
+2.  **LinkedIn:** Post a short video showing how you put a sound into a game.
+3.  **Record Sounds:** Record 5 cool, real-life sounds at your job today.
+
+---
+
+### 🚀 Technical Analysis
+To see how this plan works as a computer script, run this file:
+**[career_roadmap.py](./career_roadmap.py)**
