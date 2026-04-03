@@ -72,9 +72,13 @@ This roadmap's strategic direction, salary data, and industry research are 100% 
 
 ---
 
-## 🚀 The Python CLI Tool
-Included in this repo is `career_roadmap.py`, a custom terminal interface that outlines my transition strategy and salary scaling within the Singapore gamedev ecosystem.
+### 🚀 How to Run the Analysis
+To see this logic run as a structured script, follow these steps:
 
-### How to Run:
-```bash
-career_roadmap.py
+1. **Prerequisites:** Ensure you have [Python 3](https://www.python.org/downloads/) installed.
+2. **Download:** Save the `career_roadmap.py` file to your computer.
+3. **Execute:** Open your Terminal or Command Prompt and run:
+ 
+   ```bash
+   career_roadmap.py
+
