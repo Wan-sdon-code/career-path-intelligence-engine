@@ -1,6 +1,6 @@
 # 🎮 Project: Bungie Bound (v1.2)
 
-> **The Logic:** Don't take a pay cut to change industries in SG. Use your 10 years of management experience to skip entry-level and pivot directly into a Senior role.
+> **The Logic:** Don't take a pay cut to change industries in SG. Use your 10 years of management experience to skip entry-level and pivot directly into a Senior role Sound Designers
 
 ---
 
