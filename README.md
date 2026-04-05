@@ -57,9 +57,9 @@
 
 ### ⚠️ System Warnings & Disclaimers
 
-* **No Guaranteed Drops:** Salary figures and career progression timelines are estimates based on market data and are subject to industry shifts. 
-* **Terms of Service (TOS) Violation Risk:** The "Safety Code" protocols—specifically "Secret Recording" during work hours—may violate your current employer's Intellectual Property (IP) policies, non-compete clauses, or employment contract. Ensure you actually own the rights to any audio assets created using company time, software, or equipment before using them in a personal portfolio. 
-* **Self-Patching Required:** This strategy guide is for informational purposes. Execute career maneuvers at your own risk.
-* **Vocabulary Disclaimer:** The technical and gaming terminology used in this document (e.g., "System Migration," "Source Code," "Speed-run") is stylistic and metaphorical. These terms are used for thematic purposes to represent career strategies and should not be interpreted as literal software engineering or IT processes.
+* **No Guaranteed Drops:** Salaries and timelines are market estimates, not guarantees. 
+* **TOS Violation Risk:** Recording on company time may violate your employer's IP policies. Ensure you own your assets. 
+* **Self-Patching Required:** This strategy is for informational purposes. Execute at your own risk.
+* **Vocab Warning:** Gaming and tech terms (e.g., "System Migration," "Speed-run") are stylistic metaphors, not literal IT processes.
 
 **[ END SCRIPT ]**
