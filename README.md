@@ -38,7 +38,7 @@
 ## ✅ Your First 3 "System" Steps
 
 1. **The Tutorial:** Play the free **Wwise Learning Game** [here](https://www.audiokinetic.com/en/education/learn-wwise/).
-2. **The Proof:** Post a 30-second video of your sound inside an engine on LinkedIn.
+2. **The Proof:** Post a short video of your sound working in a game engine on LinkedIn.
 3. **The Asset:** Record **5 high-quality sounds** (metal, engine, etc.) at work today.
 
 ---
