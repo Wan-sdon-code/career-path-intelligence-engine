@@ -1,6 +1,6 @@
 # 🎮 Project: Bungie Bound (v1.2)
 
-> **The Logic:** A career change is a **System Migration**. Use 10 years of "Management Code" to skip the entry-level salary.
+> **The Logic:** Don't take a pay cut to change industries in SG. Use your 10 years of management experience to skip entry-level and pivot directly into a Senior role.
 
 ---
 
